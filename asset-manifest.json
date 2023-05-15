@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Frontend_E-Commers-Fake-Api-Store/static/css/main.db8ee326.css",
-    "main.js": "/Frontend_E-Commers-Fake-Api-Store/static/js/main.eabd1a71.js",
+    "main.js": "/Frontend_E-Commers-Fake-Api-Store/static/js/main.e7019c61.js",
     "static/media/61nk240tw-L._AC_UY1000_.jpg": "/Frontend_E-Commers-Fake-Api-Store/static/media/61nk240tw-L._AC_UY1000_.1bfb85bd149cd97d8596.jpg",
     "index.html": "/Frontend_E-Commers-Fake-Api-Store/index.html",
     "main.db8ee326.css.map": "/Frontend_E-Commers-Fake-Api-Store/static/css/main.db8ee326.css.map",
-    "main.eabd1a71.js.map": "/Frontend_E-Commers-Fake-Api-Store/static/js/main.eabd1a71.js.map"
+    "main.e7019c61.js.map": "/Frontend_E-Commers-Fake-Api-Store/static/js/main.e7019c61.js.map"
   },
   "entrypoints": [
     "static/css/main.db8ee326.css",
-    "static/js/main.eabd1a71.js"
+    "static/js/main.e7019c61.js"
   ]
 }
